@@ -53,13 +53,12 @@ pip-sync dev.txt</code></pre>
 
 <h2>Usage</h2>
 <p>Run the Streamlit application:</p>
-<pre><code>streamlit run main.py</code></pre>
+<pre><code>streamlit run app.py</code></pre>
 
 <h2>Future Enhancements</h2>
 <ul>
     <li><strong>More Advanced Root Cause Analysis</strong>: Integrate more advanced models for detecting specific categories (e.g., machinery-related issues, human errors, environmental hazards).</li>
     <li><strong>Better Workflow for Corrective Actions</strong>: Implement a more detailed corrective action tracking system involving follow-ups, task assignments, deadlines, and notifications.</li>
-    
     <li><strong>User Authentication</strong>: Implement user authentication to ensure that only authorized personnel can submit and review incidents.</li>
     <li><strong>Email Notifications</strong>: Set up email or SMS notifications to alert reviewers when incidents are assigned or when corrective actions are overdue.</li>
 </ul>
