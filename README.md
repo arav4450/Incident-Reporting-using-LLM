@@ -31,8 +31,8 @@
 <h2>Installation</h2>
 <ol>
     <li><strong>Clone the Repository</strong>:
-        <pre><code>git clone https://github.com/arav4450/incident-reporting-system.git
-cd incident-reporting-system</code></pre>
+        <pre><code>git clone https://github.com/arav4450/Incident-Reporting-using-LLM.git
+cd Incident-Reporting-using-LLM</code></pre>
     </li>
     <li><strong>Set Up the Environment</strong>: Create and activate a virtual environment:
         <pre><code>python3 -m venv venv
