@@ -31,7 +31,7 @@
 <h2>Installation</h2>
 <ol>
     <li><strong>Clone the Repository</strong>:
-        <pre><code>git clone https://github.com/yourusername/incident-reporting-system.git
+        <pre><code>git clone https://github.com/arav4450/incident-reporting-system.git
 cd incident-reporting-system</code></pre>
     </li>
     <li><strong>Set Up the Environment</strong>: Create and activate a virtual environment:
